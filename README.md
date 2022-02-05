@@ -5,3 +5,6 @@ Adding 2nd change.
 Adding 3rd change.
 
 ![workflow](https://github.com/MdSaifullah80/sem2/actions/workflows/main.yml/badge.svg)
+
+
+[![LICENSE](https://img.shields.io/github/license/MdSaifullah80/sem2.svg?style=flat-square)](https://github.com/MdSaifullah80/sem2/blob/master/LICENSE)
