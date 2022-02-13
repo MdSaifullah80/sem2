@@ -1,9 +1,6 @@
 package com.napier.sem2;
 
-import com.mongodb.MongoClient;
-import com.mongodb.client.MongoDatabase;
-import com.mongodb.client.MongoCollection;
-import org.bson.Document;
+
 import java.sql.*;
 
 public class App
